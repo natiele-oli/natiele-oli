@@ -13,7 +13,7 @@ Sou uma estudante de Engenharia de Software e estou dando meus primeiros passos 
 
 ## Tecnologias e Ferramentas 💻
 
-Aqui estão as tecnologias e ferramentas com as quais estou familiarizado e gosto de usar:
+Aqui estão as tecnologias e ferramentas com as quais estou familiarizada e gosto de usar:
 
 ### Linguagens:
 
