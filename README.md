@@ -7,7 +7,7 @@ Sou uma estudante de Engenharia de Software e estou dando meus primeiros passos 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvanatiele913@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natiele-oliveira-16494a31a/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/natiele.0liveira/)
+
 
 ![Natiele GitHub stats](https://github-readme-stats.vercel.app/api?username=natiele-oli&show_icons=true&theme=radical)
 
