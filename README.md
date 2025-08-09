@@ -1,7 +1,7 @@
 # Olá! Sou Natiele
 ## Sobre Mim
 
-Sou uma estudante de Engenharia de Software e estou dando meus primeiros passos no desenvolvimento web! No momento estou focada no Front-end, mas pretendo me tornar uma desenvolvedora Full Stack.
+Sou estudante de Engenharia de Software e estou dando meus primeiros passos no desenvolvimento web! No momento estou focada no Front-end, mas pretendo me tornar uma desenvolvedora Full Stack.
 
 
 
