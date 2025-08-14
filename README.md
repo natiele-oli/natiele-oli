@@ -5,7 +5,7 @@ Sou estudante de Engenharia de Software e estou dando meus primeiros passos no d
 
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvanatiele913@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natiele-oliveira-16494a31a/)
 
 
